@@ -1,0 +1,9 @@
+<settings>
+  <menuBar visible="True" />
+  <adrBar visible="True" />
+  <linkBar visible="True" />
+  <favoritesPanel visible="True" />
+  <SplashScreen checked="True" />
+  <homepage>about:blank</homepage>
+  <dropdown>15</dropdown>
+</settings>

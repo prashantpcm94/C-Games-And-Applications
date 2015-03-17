@@ -1,0 +1,10 @@
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\bin\Debug\GolabiProxyServer.exe
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\bin\Debug\GolabiProxyServer.pdb
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\bin\Debug\Encryption.Library.dll
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\bin\Debug\Encryption.Library.pdb
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\obj\x86\Debug\GolabiProxyServer.csprojResolveAssemblyReference.cache
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\obj\x86\Debug\GolabiProxyServer.GolabiServerUI.resources
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\obj\x86\Debug\GolabiProxyServer.Properties.Resources.resources
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\obj\x86\Debug\GolabiProxyServer.csproj.GenerateResource.Cache
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\obj\x86\Debug\GolabiProxyServer.exe
+E:\Article_src\GolabiProxy\GolabiProxy\GolabiProxyServer\obj\x86\Debug\GolabiProxyServer.pdb

@@ -1,0 +1,18 @@
+c:\users\lashker 'e' trishul\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\lashker 'e' trishul\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\lashker 'e' trishul\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\lashker 'e' trishul\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\lashker 'e' trishul\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\lashker 'e' trishul\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\lashker 'e' trishul\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\lashker 'e' trishul\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\lashker 'e' trishul\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+J:\MY PROJECT\C#\APPLICATION\JACKPOT\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+J:\MY PROJECT\C#\APPLICATION\JACKPOT\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+J:\MY PROJECT\C#\APPLICATION\JACKPOT\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+J:\MY PROJECT\C#\APPLICATION\JACKPOT\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+J:\MY PROJECT\C#\APPLICATION\JACKPOT\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+J:\MY PROJECT\C#\APPLICATION\JACKPOT\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+J:\MY PROJECT\C#\APPLICATION\JACKPOT\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+J:\MY PROJECT\C#\APPLICATION\JACKPOT\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+J:\MY PROJECT\C#\APPLICATION\JACKPOT\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

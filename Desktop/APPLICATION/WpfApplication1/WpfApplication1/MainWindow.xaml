@@ -1,0 +1,29 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Properties="clr-namespace:WpfApplication1.Properties" x:Name="LASHKER__E__TRISHUL_MEDIA_PLAYER" x:Class="WpfApplication1.MainWindow"
+        Title="MainWindow" Height="452" Width="612">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="287*"/>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="120*"/>
+        </Grid.RowDefinitions>
+        <Button Content="NEW" HorizontalAlignment="Left" Margin="30,64,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Grid.Row="3" Height="20"/>
+        <Button Content="PAUSE" HorizontalAlignment="Left" Margin="298,66,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" Grid.Row="3" Height="20"/>
+        <Button Content="PLAY" HorizontalAlignment="Left" Margin="435,66,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.062,0.749" Click="Button_Click_2" Grid.Row="3" Height="20"/>
+        <Button Content="STOP" HorizontalAlignment="Left" Margin="161,66,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3" Grid.Row="3" Height="20"/>
+        <MediaElement x:Name="media" HorizontalAlignment="Left" Height="349" Margin="10,10,0,0" VerticalAlignment="Top" Width="584" LoadedBehavior="Manual" Grid.RowSpan="4"/>
+        <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Margin="184,91,0,-1" VerticalAlignment="Top" RenderTransformOrigin="0.451,0.725" Width="211" Height="30" Grid.Row="3"/>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="584" ValueChanged="slider_ValueChanged" ClipToBounds="True" Grid.Row="3" Height="18" IsManipulationEnabled="True" IsMoveToPointEnabled="True" IsSelectionRangeEnabled="True" IsDirectionReversed="True" IsSnapToTickEnabled="True">
+            <Slider.ContextMenu>
+                <ContextMenu/>
+            </Slider.ContextMenu>
+            <Slider.DataContext>
+                <Properties:Resources/>
+            </Slider.DataContext>
+        </Slider>
+
+    </Grid>
+</Window>

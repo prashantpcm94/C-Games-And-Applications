@@ -1,0 +1,31 @@
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\bin\Debug\Interop.WMPLib.dll
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\bin\Debug\AxInterop.WMPLib.dll
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\obj\Debug\Interop.WMPLib.dll
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\obj\Debug\AxInterop.WMPLib.dll
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.ResolveComReference.cache
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\mehakinder\documents\visual studio 2013\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\bin\Debug\WindowsFormsApplication7.exe.config
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\Interop.WMPLib.dll
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\AxInterop.WMPLib.dll
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\WindowsFormsApplication7.csproj.ResolveComReference.cache
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\WindowsFormsApplication7.exe
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\WindowsFormsApplication7.pdb
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\bin\Debug\WindowsFormsApplication7.exe
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\bin\Debug\WindowsFormsApplication7.pdb
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\bin\Debug\Interop.WMPLib.dll
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\bin\Debug\AxInterop.WMPLib.dll
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\WindowsFormsApplication7.Form1.resources
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\bin\Debug\hi\WindowsFormsApplication7.resources.dll
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\WindowsFormsApplication7.Form1.hi.resources
+J:\MY PROJECT\C#\APPLICATION\MEDIA PLAYER IMPROVED\obj\Debug\hi\WindowsFormsApplication7.resources.dll

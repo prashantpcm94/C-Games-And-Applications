@@ -1,0 +1,26 @@
+C:\Users\~ AVI ~\Documents\Visual Studio 2008\Projects\WebSource\WebSource\bin\Debug\WebSource.exe
+C:\Users\~ AVI ~\Documents\Visual Studio 2008\Projects\WebSource\WebSource\bin\Debug\WebSource.pdb
+C:\Users\~ AVI ~\Documents\Visual Studio 2008\Projects\WebSource\WebSource\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\~ AVI ~\Documents\Visual Studio 2008\Projects\WebSource\WebSource\obj\Debug\WebSource.Form1.resources
+C:\Users\~ AVI ~\Documents\Visual Studio 2008\Projects\WebSource\WebSource\obj\Debug\WebSource.Properties.Resources.resources
+C:\Users\~ AVI ~\Documents\Visual Studio 2008\Projects\WebSource\WebSource\obj\Debug\WebSource.csproj.GenerateResource.Cache
+C:\Users\~ AVI ~\Documents\Visual Studio 2008\Projects\WebSource\WebSource\obj\Debug\WebSource.exe
+C:\Users\~ AVI ~\Documents\Visual Studio 2008\Projects\WebSource\WebSource\obj\Debug\WebSource.pdb
+D:\Project\WebSource\WebSource\bin\Debug\WebSource.exe
+D:\Project\WebSource\WebSource\bin\Debug\WebSource.pdb
+D:\Project\WebSource\WebSource\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WebSource\WebSource\obj\Debug\WebSource.Form1.resources
+D:\Project\WebSource\WebSource\obj\Debug\WebSource.Properties.Resources.resources
+D:\Project\WebSource\WebSource\obj\Debug\WebSource.csproj.GenerateResource.Cache
+D:\Project\WebSource\WebSource\obj\Debug\WebSource.exe
+D:\Project\WebSource\WebSource\obj\Debug\WebSource.pdb
+E:\Website_So2173851302010\WebSource\WebSource\obj\Debug\WebSource.pdb
+E:\Website_So2173851302010\WebSource\WebSource\bin\Debug\WebSource.exe
+E:\Website_So2173851302010\WebSource\WebSource\bin\Debug\WebSource.pdb
+E:\Website_So2173851302010\WebSource\WebSource\obj\Debug\WebSource.csprojResolveAssemblyReference.cache
+E:\Website_So2173851302010\WebSource\WebSource\obj\Debug\WebSource.Form1.resources
+E:\Website_So2173851302010\WebSource\WebSource\obj\Debug\WebSource.Properties.Resources.resources
+E:\Website_So2173851302010\WebSource\WebSource\obj\Debug\WebSource.csproj.GenerateResource.Cache
+E:\Website_So2173851302010\WebSource\WebSource\obj\Debug\WebSource.exe
+I:\MY PROJECT\C#\APPLICATION\WebSource\WebSource\obj\Debug\WebSource.exe
+I:\MY PROJECT\C#\APPLICATION\WebSource\WebSource\obj\Debug\WebSource.pdb

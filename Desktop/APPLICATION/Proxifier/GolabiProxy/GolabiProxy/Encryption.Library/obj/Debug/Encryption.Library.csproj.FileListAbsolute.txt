@@ -1,0 +1,5 @@
+E:\Article_src\GolabiProxy\GolabiProxy\Encryption.Library\bin\Debug\Encryption.Library.dll
+E:\Article_src\GolabiProxy\GolabiProxy\Encryption.Library\bin\Debug\Encryption.Library.pdb
+E:\Article_src\GolabiProxy\GolabiProxy\Encryption.Library\obj\Debug\Encryption.Library.csprojResolveAssemblyReference.cache
+E:\Article_src\GolabiProxy\GolabiProxy\Encryption.Library\obj\Debug\Encryption.Library.dll
+E:\Article_src\GolabiProxy\GolabiProxy\Encryption.Library\obj\Debug\Encryption.Library.pdb
